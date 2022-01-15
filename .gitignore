@@ -1,0 +1,10 @@
+
+main/__pycache__
+client_1/__pycache__
+main/.DS_Store
+client_1/.DS_Store
+.DS_Store
+main/uploads
+main/downloads
+client_1/uploads
+client_1/downloads
